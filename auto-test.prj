@@ -9,9 +9,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>9.4.0</modifiedVersion>
+   <modifiedVersion>9.5.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>D:\Work\Workspace\katalon-automation-test\auto-test.prj</projectFileLocation>
+   <projectFileLocation>D:\Work\Workspace\auto-test\auto-test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
